@@ -1,5 +1,5 @@
 <?
-	$conn = new PDO("mysql:host=localhost; dbname=lab1_function", "root", "root");
+	$conn = new PDO("mysql:host=хост; dbname=названиеБД", "логин", "пароль");
 	$arrayMAIN = array();
 	$arrayALL_DB = array();
 	
